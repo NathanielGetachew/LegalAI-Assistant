@@ -38,21 +38,7 @@ Generates multiple completions from the same prompt and selects the most consist
 - **Folder Design**: Modular organization for code, prompts, tests, and reflections
 
 ---
-## 📁 Project Structure
 
-LegalAI-Assistant/
-├── Task1_AdvancedPromptEngineering/
-│ ├── flowchart/
-│ │ └── legal_ai_flowchart.png # Visual overview of system architecture
-│ ├── prompts/
-│ │ └── prompt_templates.md # CoT and self-consistency prompt templates
-│ ├── notebooks/
-│ │ └── legal_ai_prompt_system.ipynb # Colab-compatible implementation
-│ ├── test_cases/
-│ │ └── test_inputs_outputs.md # Sample cases with outputs
-│ ├── reflection/
-│ │ └── prompt_techniques_analysis.md # Evaluation and reflection
-│ └── README.md # This file
 
 
 ---
